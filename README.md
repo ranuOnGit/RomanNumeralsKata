@@ -1,1 +1,1 @@
-JavaScript, React
+HTML, CSS, JavaScript, React
